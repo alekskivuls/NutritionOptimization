@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/akivuls/Downloads/winglpk-4.60/glpk-4.60/w64/glpk-java.jar" sourcepath="C:/Users/akivuls/Downloads/winglpk-4.60/glpk-4.60/w64/glpk-java-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/akivuls/Downloads/winglpk-4.60/glpk-4.60/w64/glpk-java-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

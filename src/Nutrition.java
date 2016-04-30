@@ -1,4 +1,3 @@
-
 public class Nutrition {
 
 	public static void main(String[] args) {
